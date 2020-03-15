@@ -1,0 +1,6 @@
+# 一些需要记录的网站
+https://blog.csdn.net/lovechendongxing/article/details/81748553?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task
+该博客很好地讲解了 spark structed streaming 中的 Watermark 机制
+
+https://blog.csdn.net/qq_32252917/article/details/78827126
+该博客 讲解了 exactly-once 机制
